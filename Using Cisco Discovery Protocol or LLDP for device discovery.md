@@ -26,7 +26,6 @@ enable.
 ### 3. Licensing
 - tham khảo giấy phép tại (https://bom.to/D8vkg)
 ### 4. Logging
-- ![00](https://i.imgur.com/EWStSV9.png)
 - ![5](https://i.imgur.com/EWStSV9.png)
 ### 5. Timezone
 - cài đặt : ![6](https://i.imgur.com/W2nUo1y.png)
