@@ -15,7 +15,7 @@ ta có thể khôi phục lại kịp thời mà không ảnh hưởng gì nhi�
     ![1](https://i.imgur.com/sO1FxGB.png)
 
 - cách restore
-    ![https://i.imgur.com/ZilfVwY.png]
+    ![123](https://i.imgur.com/ZilfVwY.png)
 ### 2. Using Cisco Discovery Protocol or LLDP for device discovery
 - LLDP có khả năng hỗ trợ một tập hợp của các thuộc tính được sử dụng để khám phá ra những 
 thiết bị hàng xóm (neighbor)
