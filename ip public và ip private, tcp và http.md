@@ -1,5 +1,5 @@
-﻿# sự khác nhau về ip công cộng và riêng tư
-### 1. IP công cộng 
+﻿# sự khác nhau về ip public và ip private
+### 1. IP public
 - Địa chỉ IP public là địa chỉ được gán cho thiết bị điện toán để cho phép truy cập trực tiếp qua Internet. Một máy chủ web, máy chủ email và bất kỳ thiết bị máy chủ nào có thể truy cập trực tiếp từ Internet là ứng cử viên cho một địa chỉ IP public. Địa chỉ IP public là duy nhất trên toàn cầu và chỉ có thể được gán cho một thiết bị duy nhất.
 ### 2. IP private
 - Địa chỉ IP riêng là không gian địa chỉ được phân bổ bởi InterNIC để cho phép các tổ chức tạo mạng riêng của họ. Có ba khối IP (1 lớp A, 1 lớp B và 1 lớp C) dành riêng cho sử dụng riêng. Các máy tính, máy tính bảng và điện thoại thông minh ngồi sau nhà bạn và các máy tính cá nhân trong một tổ chức thường được gán địa chỉ IP riêng. Một máy in mạng trong nhà bạn được chỉ định một địa chỉ riêng để chỉ gia đình bạn có thể in ra máy in cục bộ của bạn.
